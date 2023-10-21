@@ -1,4 +1,4 @@
-package com.web.bc.pro1;
+package com.web.bc.pro1_神秘的命名;
 
 public enum Type {
     TYPE1("101", "悲剧"),
